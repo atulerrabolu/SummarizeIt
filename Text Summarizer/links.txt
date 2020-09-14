@@ -1,0 +1,12 @@
+* 
+Enter a list of links in the order you want them.
+EX:
+
+https://www.nytimes.com/2018/08/10/books/review/adam-tooze-crashed.html
+https://www.nytimes.com/2020/09/13/technology/tiktok-microsoft-oracle-bytedance.html
+.
+.
+.
+
+(Obviously don't include the instructions in the within the ** in the actual file.)
+*
